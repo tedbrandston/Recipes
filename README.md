@@ -1,7 +1,8 @@
 Recipes
 =======
 
-Recipes for gluten free (delicious) foodstuffs made by my wife, Catherine.
+Originally for recipes for gluten free (delicious) foodstuffs made by Dave and Catherine Sayles.
+Kat and I will be adding our own recipes, some of which may be gluten-y.
 
 All recipes are in markdown format.  Feel free to modify these recipes and submit a pull request!
 
